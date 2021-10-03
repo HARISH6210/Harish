@@ -801,7 +801,9 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
-
+.list-style{
+	list-style:none;	
+}
 
 
 
